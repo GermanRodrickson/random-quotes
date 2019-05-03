@@ -10,7 +10,6 @@ const quotes = [
    Tienes que handlebar el estado`,
   'Ontas?',
   'Que va a tener si programa en angular',
-  'Ship ship ship',
   `No es mobile friendly \n
    Y no hay intención`,
   'Eres más inestable que mi build del dark soulds',
