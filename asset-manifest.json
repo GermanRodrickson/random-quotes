@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/random-quotes/static/css/main.584f321a.chunk.css",
+    "main.js": "/random-quotes/static/js/main.5c4878fd.chunk.js",
+    "main.js.map": "/random-quotes/static/js/main.5c4878fd.chunk.js.map",
+    "runtime~main.js": "/random-quotes/static/js/runtime~main.042febda.js",
+    "runtime~main.js.map": "/random-quotes/static/js/runtime~main.042febda.js.map",
+    "static/js/2.b41502e9.chunk.js": "/random-quotes/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/random-quotes/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/random-quotes/index.html",
+    "precache-manifest.e0cba88ce141c86c6982c9a8dd65d29e.js": "/random-quotes/precache-manifest.e0cba88ce141c86c6982c9a8dd65d29e.js",
+    "service-worker.js": "/random-quotes/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/random-quotes/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/random-quotes/static/media/logo.5d5d9eef.svg"
+  }
+}
